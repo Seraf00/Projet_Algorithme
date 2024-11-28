@@ -10,6 +10,9 @@ int main(){
     int c = a + b;
     printf("the result of the addition is : %d",c);
 
+    int z = b-a;
+    printf("the result of the sub is : %d",z);
+
 
     return 0;
 }
